@@ -1,0 +1,1188 @@
+[29-Oct-2025 15:39:37 UTC] [DB_DEBUG] Connected DB: u537364093_kunetworks_db
+[29-Oct-2025 15:39:37 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:39:37 UTC] [CLAIM_BONUS_DEBUG] User 510 already claimed daily bonus today.
+[29-Oct-2025 15:39:48 UTC] [DB_DEBUG] Connected DB: u537364093_kunetworks_db
+[29-Oct-2025 15:39:48 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:39:48 UTC] [CLAIM_BONUS_DEBUG] User 510 already claimed daily bonus today.
+[29-Oct-2025 15:40:28 UTC] [DB_DEBUG] Connected DB: u537364093_kunetworks_db
+[29-Oct-2025 15:40:28 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:40:28 UTC] [CLAIM_BONUS_DEBUG] User 510 already claimed daily bonus today.
+[29-Oct-2025 15:45:47 UTC] [DB_DEBUG] Connected DB: u537364093_kunetworks_db
+[29-Oct-2025 15:45:47 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:45:47 UTC] [CLAIM_BONUS_DEBUG] User 510 already claimed daily bonus today.
+[29-Oct-2025 15:46:27 UTC] [DB_DEBUG] Connected DB: u537364093_kunetworks_db
+[29-Oct-2025 15:46:27 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:46:27 UTC] [CLAIM_BONUS_DEBUG] User 510 already claimed daily bonus today.
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] User 512 attempting to claim bonus for date 2025-10-29.
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] User 512 - Final level_for_daily_bonus (current level): 1
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] User 512 - Daily Bonus Calculation: Base=50, Percent=1.32, Bonus Amount=0.66
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 512, amount: 0.66, description: Daily Bonus
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 512. New balance: 9868.42
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] User 512 - Daily bonus of 0.66 recorded (ID: 370) and credited.
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] START child=512
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=92 for child=512
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Parent 92 level=3
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Calculated percent=4.19% for parent 92
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Child 512 balance=9868.42
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Commission=413.49
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Inserted team_commission_history id=27
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 413.49, description: Daily Referral on Child Balance (L3) 4.19%
+[29-Oct-2025 15:52:46 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 20780.19
+[29-Oct-2025 15:52:46 UTC] [DAILY_PARENT_COMM_BAL] Credited 413.49 to parent 92 from child 512 balance 9868.42 at 4.19% (L3). DONE
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Current Level (for upgrade 'from'): 1
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Total Direct Investment (Payment): 9867
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Just Claimed Daily Bonus: 0.66
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Effective Total Investment for Upgrade Check (Required Balance): 9867.66
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Actual Team YZ (Y+Z): 0
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - Actual Total Active Team (X+Y+Z): 0
+[29-Oct-2025 15:52:46 UTC] [LEVEL_UPGRADE_DEBUG] User 512 - No upgrade applicable. Criteria not met for higher than L1.
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] User 192 attempting to claim bonus for date 2025-10-30.
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] User 192 - Final level_for_daily_bonus (current level): 1
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] User 192 - Daily Bonus Calculation: Base=50, Percent=1.44, Bonus Amount=0.72
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 192, amount: 0.72, description: Daily Bonus
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 192. New balance: 5500.72
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] User 192 - Daily bonus of 0.72 recorded (ID: 371) and credited.
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] START child=192
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=92 for child=192
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Parent 92 level=3
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Calculated percent=5.08% for parent 92
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Child 192 balance=5500.72
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Commission=279.44
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Inserted team_commission_history id=28
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 279.44, description: Daily Referral on Child Balance (L3) 5.08%
+[30-Oct-2025 06:59:50 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 21059.63
+[30-Oct-2025 06:59:50 UTC] [DAILY_PARENT_COMM_BAL] Credited 279.44 to parent 92 from child 192 balance 5500.72 at 5.08% (L3). DONE
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Current Level (for upgrade 'from'): 1
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Total Direct Investment (Payment): 0
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Just Claimed Daily Bonus: 0.72
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Effective Total Investment for Upgrade Check (Required Balance): 0.72
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Actual Team X: 5, Team Y: 25, Team Z: 125
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Actual Team YZ (Y+Z): 150
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - Actual Total Active Team (X+Y+Z): 155
+[30-Oct-2025 06:59:50 UTC] [LEVEL_UPGRADE_DEBUG] User 192 - No upgrade applicable. Criteria not met for higher than L1.
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-10-30.
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.35, Bonus Amount=0.68
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.68, description: Daily Bonus
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 6566.37
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.68 recorded (ID: 372) and credited.
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] START child=510
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=92 for child=510
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Parent 92 level=3
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Calculated percent=5.25% for parent 92
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Child 510 balance=6566.37
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Commission=344.73
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Inserted team_commission_history id=29
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 344.73, description: Daily Referral on Child Balance (L3) 5.25%
+[30-Oct-2025 08:02:02 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 21404.36
+[30-Oct-2025 08:02:02 UTC] [DAILY_PARENT_COMM_BAL] Credited 344.73 to parent 92 from child 510 balance 6566.37 at 5.25% (L3). DONE
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 6565
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.68
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 6565.68
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 0
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 0
+[30-Oct-2025 08:02:02 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-11-03.
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.41, Bonus Amount=0.71
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.71, description: Daily Bonus
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 6567.08
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.71 recorded (ID: 373) and credited.
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] START child=510
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=92 for child=510
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Parent 92 level=3
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Calculated percent=5.17% for parent 92
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Child 510 balance=6567.08
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Commission=339.52
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Inserted team_commission_history id=30
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 339.52, description: Daily Referral on Child Balance (L3) 5.17%
+[03-Nov-2025 05:02:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 21735.88
+[03-Nov-2025 05:02:17 UTC] [DAILY_PARENT_COMM_BAL] Credited 339.52 to parent 92 from child 510 balance 6567.08 at 5.17% (L3). DONE
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 6565
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.71
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 6565.71
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 0
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 0
+[03-Nov-2025 05:02:17 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] User 511 attempting to claim bonus for date 2025-11-03.
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] User 511 - No specific level found, defaulting to level 1 for daily bonus calculation.
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] User 511 - Final level_for_daily_bonus (current level): 1
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] User 511 - Daily Bonus Calculation: Base=50, Percent=1.56, Bonus Amount=0.78
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 511, amount: 0.78, description: Daily Bonus
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] Wallet created for user 511. Balance: 0.78
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] User 511 - Daily bonus of 0.78 recorded (ID: 375) and credited.
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] START child=511
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=92 for child=511
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Parent 92 level=3
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Calculated percent=5.22% for parent 92
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Child 511 balance=0.78
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Commission=0.04
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Inserted team_commission_history id=31
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 0.04, description: Daily Referral on Child Balance (L3) 5.22%
+[03-Nov-2025 17:12:40 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 21735.92
+[03-Nov-2025 17:12:40 UTC] [DAILY_PARENT_COMM_BAL] Credited 0.04 to parent 92 from child 511 balance 0.78 at 5.22% (L3). DONE
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Current Level (for upgrade 'from'): 1
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Total Direct Investment (Payment): 0
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Just Claimed Daily Bonus: 0.78
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Effective Total Investment for Upgrade Check (Required Balance): 0.78
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Actual Team YZ (Y+Z): 0
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - Actual Total Active Team (X+Y+Z): 0
+[03-Nov-2025 17:12:40 UTC] [LEVEL_UPGRADE_DEBUG] User 511 - No upgrade applicable. Criteria not met for higher than L1.
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] User 193 attempting to claim bonus for date 2025-11-03.
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] User 193 - Final level_for_daily_bonus (current level): 1
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] User 193 - Daily Bonus Calculation: Base=50, Percent=1.35, Bonus Amount=0.68
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 193, amount: 0.68, description: Daily Bonus
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 193. New balance: 5502.25
+[03-Nov-2025 17:26:19 UTC] [CLAIM_BONUS_DEBUG] User 193 - Daily bonus of 0.68 recorded (ID: 376) and credited.
+[03-Nov-2025 17:26:19 UTC] [DAILY_PARENT_COMM_BAL] START child=193
+[03-Nov-2025 17:26:19 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=192 for child=193
+[03-Nov-2025 17:26:19 UTC] [DAILY_PARENT_COMM_BAL] Parent 192 has no current_level_id
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Current Level (for upgrade 'from'): 1
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Total Direct Investment (Payment): 0
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Just Claimed Daily Bonus: 0.68
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Effective Total Investment for Upgrade Check (Required Balance): 0.68
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Actual Team X: 5, Team Y: 25, Team Z: 0
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Actual Team YZ (Y+Z): 25
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - Actual Total Active Team (X+Y+Z): 30
+[03-Nov-2025 17:26:19 UTC] [LEVEL_UPGRADE_DEBUG] User 193 - No upgrade applicable. Criteria not met for higher than L1.
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] User 102 attempting to claim bonus for date 2025-11-03.
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] User 102 - No specific level found, defaulting to level 1 for daily bonus calculation.
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] User 102 - Final level_for_daily_bonus (current level): 1
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] User 102 - Daily Bonus Calculation: Base=50, Percent=1.51, Bonus Amount=0.76
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 102, amount: 0.76, description: Daily Bonus
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 102. New balance: 5000.76
+[03-Nov-2025 17:28:21 UTC] [CLAIM_BONUS_DEBUG] User 102 - Daily bonus of 0.76 recorded (ID: 377) and credited.
+[03-Nov-2025 17:28:21 UTC] [DAILY_PARENT_COMM_BAL] START child=102
+[03-Nov-2025 17:28:21 UTC] [DAILY_PARENT_COMM_BAL] Found parent_id=99 for child=102
+[03-Nov-2025 17:28:21 UTC] [DAILY_PARENT_COMM_BAL] Parent 99 has no current_level_id
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Current Level (for upgrade 'from'): 1
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Total Direct Investment (Payment): 0
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Just Claimed Daily Bonus: 0.76
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Effective Total Investment for Upgrade Check (Required Balance): 0.76
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Actual Team X: 5, Team Y: 0, Team Z: 0
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Actual Team YZ (Y+Z): 0
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - Actual Total Active Team (X+Y+Z): 5
+[03-Nov-2025 17:28:21 UTC] [LEVEL_UPGRADE_DEBUG] User 102 - No upgrade applicable. Criteria not met for higher than L1.
+[03-Nov-2025 17:28:51 UTC] [CLAIM_BONUS_DEBUG] User 102 attempting to claim bonus for date 2025-11-03.
+[03-Nov-2025 17:28:51 UTC] [CLAIM_BONUS_DEBUG] User 102 already claimed daily bonus today.
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] User 106 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] User 106 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] User 106 - Daily Bonus Calculation: Base=50, Percent=1.6, Bonus Amount=0.8
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 106, amount: 0.8, description: Daily Bonus
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 106. New balance: 6576570654.8
+[04-Nov-2025 14:09:31 UTC] [CLAIM_BONUS_DEBUG] User 106 - Daily bonus of 0.8 recorded (ID: 378) and credited.
+[04-Nov-2025 14:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payDirectParentDailyCommissionOnChildBalance() in /home/u537364093/domains/kunetworks.com/public_html/ku_networks2/claim_bonus.php:500
+Stack trace:
+#0 {main}
+  thrown in /home/u537364093/domains/kunetworks.com/public_html/ku_networks2/claim_bonus.php on line 500
+[04-Nov-2025 14:17:44 UTC] [CLAIM_BONUS_DEBUG] User 106 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:17:44 UTC] [CLAIM_BONUS_DEBUG] User 106 already claimed daily bonus today.
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] User 109 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] User 109 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] User 109 - Daily Bonus Calculation: Base=50, Percent=1.68, Bonus Amount=0.84
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 109, amount: 0.84, description: Daily Bonus
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 109. New balance: 10000000000001
+[04-Nov-2025 14:20:38 UTC] [CLAIM_BONUS_DEBUG] User 109 - Daily bonus of 0.84 recorded (ID: 379) and credited.
+[04-Nov-2025 14:20:38 UTC] PHP Warning:  Undefined variable $child_user_id in /home/u537364093/domains/kunetworks.com/public_html/ku_networks2/claim_bonus.php on line 500
+[04-Nov-2025 14:20:38 UTC] [DAILY_UPLINE_COMM] START child=
+[04-Nov-2025 14:20:38 UTC] [DAILY_UPLINE_COMM] No parent found for user 0 -- stopping upline walk.
+[04-Nov-2025 14:20:38 UTC] [DAILY_UPLINE_COMM] FINISH for child=. Levels processed=0
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Just Claimed Daily Bonus: 0.84
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.83
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Actual Team X: 5, Team Y: 0, Team Z: 0
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - Actual Total Active Team (X+Y+Z): 5
+[04-Nov-2025 14:20:38 UTC] [LEVEL_UPGRADE_DEBUG] User 109 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] User 152 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] User 152 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] User 152 - Daily Bonus Calculation: Base=50, Percent=1.63, Bonus Amount=0.82
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 152, amount: 0.82, description: Daily Bonus
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 152. New balance: 4333349587.82
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] User 152 - Daily bonus of 0.82 recorded (ID: 380) and credited.
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] START child=152
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] Found parent_id=109 for child=152
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] Parent 109 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] Found parent_id=100 for child=109
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] Parent 100 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] No parent found for user 100 -- stopping upline walk.
+[04-Nov-2025 14:41:09 UTC] [DAILY_UPLINE_COMM] FINISH for child=152. Levels processed=2
+[04-Nov-2025 14:41:09 UTC] [CLAIM_BONUS_DEBUG] User 152 - Transaction committed successfully.
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Just Claimed Daily Bonus: 0.82
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.81
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 14:41:09 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] User 152 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] User 152 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] User 152 - Daily Bonus Calculation: Base=50, Percent=1.63, Bonus Amount=0.82
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 152, amount: 0.82, description: Daily Bonus
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 152. New balance: 4333349588.64
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] User 152 - Daily bonus of 0.82 recorded (ID: 381) and credited.
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] START child=152
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] Found parent_id=109 for child=152
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] Parent 109 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] Found parent_id=100 for child=109
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] Parent 100 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] No parent found for user 100 -- stopping upline walk.
+[04-Nov-2025 14:44:41 UTC] [DAILY_UPLINE_COMM] FINISH for child=152. Levels processed=2
+[04-Nov-2025 14:44:41 UTC] [CLAIM_BONUS_DEBUG] User 152 - Transaction committed successfully.
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Just Claimed Daily Bonus: 0.82
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.81
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 14:44:41 UTC] [LEVEL_UPGRADE_DEBUG] User 152 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] User 509 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] User 509 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] User 509 - Daily Bonus Calculation: Base=50, Percent=1.52, Bonus Amount=0.76
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 509, amount: 0.76, description: Daily Bonus
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 509. New balance: 54655.52
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] User 509 - Daily bonus of 0.76 recorded (ID: 382) and credited.
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] START child=509
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Found parent_id=92 for child=509
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Ancestor 92 level=3
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Ancestor 92 percent=3.73%
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 92 = 2038.65
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Inserted team_commission_history id=32 for ancestor 92
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 2038.65, description: Daily Referral Commission from child 509 (distance L1) 3.73%
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 23695.87
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] Credited 2038.65 to ancestor 92 (distance L1)
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 14:45:54 UTC] [DAILY_UPLINE_COMM] FINISH for child=509. Levels processed=1
+[04-Nov-2025 14:45:54 UTC] [CLAIM_BONUS_DEBUG] User 509 - Transaction committed successfully.
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Total Direct Investment (Payment): 54654
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Just Claimed Daily Bonus: 0.76
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Effective Total Investment for Upgrade Check (Required Balance): 54654.76
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 14:45:54 UTC] [LEVEL_UPGRADE_DEBUG] User 509 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.31, Bonus Amount=0.66
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.66, description: Daily Bonus
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433332.66
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.66 recorded (ID: 383) and credited.
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] START child=515
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Found parent_id=509 for child=515
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Parent 509 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Found parent_id=92 for child=509
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Ancestor 92 level=3
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Ancestor 92 percent=5.41%
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 92 = 245799743.3
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Inserted team_commission_history id=33 for ancestor 92
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 245799743.3, description: Daily Referral Commission from child 515 (distance L2) 5.41%
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245823439.17
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] Credited 245799743.3 to ancestor 92 (distance L2)
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 14:50:25 UTC] [DAILY_UPLINE_COMM] FINISH for child=515. Levels processed=2
+[04-Nov-2025 14:50:25 UTC] [CLAIM_BONUS_DEBUG] User 515 - Transaction committed successfully.
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Just Claimed Daily Bonus: 0.66
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.65
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 14:50:25 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.6, Bonus Amount=0.8
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.8, description: Daily Bonus
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433333.46
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.8 recorded (ID: 384) and credited.
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] START child=515
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Found parent_id=509 for child=515
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Parent 509 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Found parent_id=92 for child=509
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Ancestor 92 level=3
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Ancestor 92 percent=4.80%
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 92 = 218084800.01
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] Duplicate for child 515 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 15:33:50 UTC] [DAILY_UPLINE_COMM] FINISH for child=515. Levels processed=2
+[04-Nov-2025 15:33:50 UTC] [CLAIM_BONUS_DEBUG] User 515 - Transaction committed successfully.
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Just Claimed Daily Bonus: 0.8
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.79
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 15:33:50 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.55, Bonus Amount=0.78
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.78, description: Daily Bonus
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433334.24
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.78 recorded (ID: 385) and credited.
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] START child=515
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Found parent_id=509 for child=515
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Parent 509 has no current_level_id -- skip this ancestor.
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Found parent_id=92 for child=509
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Ancestor 92 level=3
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Ancestor 92 percent=3.60%
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 92 = 163563600.03
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] Duplicate for child 515 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 15:37:56 UTC] [DAILY_UPLINE_COMM] FINISH for child=515. Levels processed=2
+[04-Nov-2025 15:37:56 UTC] [CLAIM_BONUS_DEBUG] User 515 - Transaction committed successfully.
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Just Claimed Daily Bonus: 0.78
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.77
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 15:37:56 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.45, Bonus Amount=0.73
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.73, description: Daily Bonus
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433334.97
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.73 recorded (ID: 386) and credited.
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] START child=515
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Found parent_id=509 for child=515
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Ancestor 509 team_type=Level Z, distance=1
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Ancestor 509 percent=2.00% (from level_2 in team_earning_commission)
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 509 = 90868666.7
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Inserted team_commission_history id=34 for ancestor 509
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 509, amount: 90868666.7, description: Daily Referral Commission from child 515 (distance L1) 2.00%
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 509. New balance: 90923322.22
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Credited 90868666.7 to ancestor 509 (distance L1)
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Found parent_id=92 for child=509
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Ancestor 92 team_type=Level Y, distance=2
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Ancestor 92 percent=6.00% (from level_3 in team_earning_commission)
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Commission to ancestor 92 = 272606000.1
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] Duplicate for child 515 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 15:47:07 UTC] [DAILY_UPLINE_COMM] FINISH for child=515. Levels processed=2
+[04-Nov-2025 15:47:07 UTC] [CLAIM_BONUS_DEBUG] User 515 - Transaction committed successfully.
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Just Claimed Daily Bonus: 0.73
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.72
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 15:47:07 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.49, Bonus Amount=0.75
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.75, description: Daily Bonus
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433335.72
+[04-Nov-2025 16:04:34 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.75 recorded (ID: 387) and credited.
+[04-Nov-2025 16:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payDirectParentDailyCommissionOnChildBalance() in /home/u537364093/domains/kunetworks.com/public_html/ku_networks2/claim_bonus.php:536
+Stack trace:
+#0 {main}
+  thrown in /home/u537364093/domains/kunetworks.com/public_html/ku_networks2/claim_bonus.php on line 536
+[04-Nov-2025 16:17:23 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:17:23 UTC] [CLAIM_BONUS_DEBUG] User 515 already claimed daily bonus today.
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] User 515 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] User 515 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily Bonus Calculation: Base=50, Percent=1.3, Bonus Amount=0.65
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 515, amount: 0.65, description: Daily Bonus
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 515. New balance: 4543433336.37
+[04-Nov-2025 16:20:30 UTC] [CLAIM_BONUS_DEBUG] User 515 - Daily bonus of 0.65 recorded (ID: 388) and credited.
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] START child=515
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=509 for child=515 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 509 = 136303000.09
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 515 -> ancestor 509 on 2025-11-04. Skipping payout.
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=509 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 45434333.36
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 515 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 16:20:30 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=515. Levels processed=2
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Total Direct Investment (Payment): 99999999.99
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Just Claimed Daily Bonus: 0.65
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.64
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 16:20:30 UTC] [LEVEL_UPGRADE_DEBUG] User 515 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.39, Bonus Amount=0.7
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.7, description: Daily Bonus
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 6547.78
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.7 recorded (ID: 389) and credited.
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] START child=510
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 196.43
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=35 for ancestor 92
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 196.43, description: Daily Referral Commission from child 510 (distance L1) 3.00%
+[04-Nov-2025 16:22:00 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245823635.6
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 196.43 to ancestor 92 (distance L1)
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 16:22:00 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=510. Levels processed=1
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 6565
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.7
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 6565.7
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 16:22:00 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.6, Bonus Amount=0.8
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.8, description: Daily Bonus
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 50000.8
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.8 recorded (ID: 390) and credited.
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1500.02
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=36 for ancestor 510
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 1500.02, description: Daily Referral Commission from child 516 (distance L1) 3.00%
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 8047.8
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1500.02 to ancestor 510 (distance L1)
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 500.01
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=37 for ancestor 92
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 500.01, description: Daily Referral Commission from child 516 (distance L2) 1.00%
+[04-Nov-2025 16:24:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824135.61
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 500.01 to ancestor 92 (distance L2)
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 16:24:39 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.8
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 50000.8
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 16:24:39 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] User 517 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily Bonus Calculation: Base=50, Percent=1.31, Bonus Amount=0.66
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 517, amount: 0.66, description: Daily Bonus
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 517. New balance: 50000.66
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily bonus of 0.66 recorded (ID: 391) and credited.
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] START child=517
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=516 for child=517 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 516 = 1500.02
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=38 for ancestor 516
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 1500.02, description: Daily Referral Commission from child 517 (distance L1) 3.00%
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 51500.82
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1500.02 to ancestor 516 (distance L1)
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 500.01
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=39 for ancestor 510
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 500.01, description: Daily Referral Commission from child 517 (distance L2) 1.00%
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 8547.81
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 500.01 to ancestor 510 (distance L2)
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L3. Commission percent: 0.50%
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 250
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=40 for ancestor 92
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 250, description: Daily Referral Commission from child 517 (distance L3) 0.50%
+[04-Nov-2025 16:26:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824385.61
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 250 to ancestor 92 (distance L3)
+[04-Nov-2025 16:26:54 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=517. Levels processed=3
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Just Claimed Daily Bonus: 0.66
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Effective Total Investment for Upgrade Check (Required Balance): 50000.66
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 16:26:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 3
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=2000, Percent=2.23, Bonus Amount=44.6
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 44.6, description: Daily Bonus
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824370.21
+[04-Nov-2025 17:33:56 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 44.6 recorded (ID: 392) and credited.
+[04-Nov-2025 17:33:56 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[04-Nov-2025 17:33:56 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 17:33:56 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 3
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 11777
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 44.6
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 11821.6
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 10, Team Y: 19, Team Z: 78
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 97
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 107
+[04-Nov-2025 17:33:56 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L3.
+[04-Nov-2025 17:34:02 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 17:34:02 UTC] [CLAIM_BONUS_DEBUG] User 92 already claimed daily bonus today.
+[04-Nov-2025 17:34:06 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 17:34:06 UTC] [CLAIM_BONUS_DEBUG] User 92 already claimed daily bonus today.
+[04-Nov-2025 17:36:28 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 17:36:28 UTC] [CLAIM_BONUS_DEBUG] User 92 already claimed daily bonus today.
+[04-Nov-2025 18:00:25 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:00:25 UTC] [CLAIM_BONUS_DEBUG] User 516 already claimed daily bonus today.
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.48, Bonus Amount=0.74
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.74, description: Daily Bonus
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 51496.31
+[04-Nov-2025 18:02:19 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.74 recorded (ID: 394) and credited.
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1544.89
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 516 -> ancestor 510 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 514.96
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 516 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 18:02:19 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.74
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 50000.74
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 1, Team Y: 0, Team Z: 0
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 1
+[04-Nov-2025 18:02:19 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 18:06:02 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:06:02 UTC] [CLAIM_BONUS_DEBUG] User 516 already claimed daily bonus today.
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] User 517 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] User 517 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily Bonus Calculation: Base=50, Percent=1.54, Bonus Amount=0.77
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 517, amount: 0.77, description: Daily Bonus
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 517. New balance: 50006.43
+[04-Nov-2025 18:07:31 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily bonus of 0.77 recorded (ID: 395) and credited.
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] START child=517
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=516 for child=517 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 516 = 1500.19
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 517 -> ancestor 516 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 500.06
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 517 -> ancestor 510 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L3. Commission percent: 0.50%
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 250.03
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 517 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:07:31 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=517. Levels processed=3
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Just Claimed Daily Bonus: 0.77
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Effective Total Investment for Upgrade Check (Required Balance): 50000.77
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 18:07:31 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.41, Bonus Amount=0.71
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.71, description: Daily Bonus
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 51497.02
+[04-Nov-2025 18:09:30 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.71 recorded (ID: 396) and credited.
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1544.91
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 516 -> ancestor 510 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 514.97
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] Duplicate for child 516 -> ancestor 92 on 2025-11-04. Skipping payout.
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[04-Nov-2025 18:09:30 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.71
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 50000.71
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 1, Team Y: 0, Team Z: 0
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 1
+[04-Nov-2025 18:09:30 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] User 517 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] User 517 - Final level_for_daily_bonus (current level): 1
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily Bonus Calculation: Base=50, Percent=1.7, Bonus Amount=0.85
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 517, amount: 0.85, description: Daily Bonus
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 517. New balance: 50007.28
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily bonus of 0.85 recorded (ID: 397) and credited.
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] START child=517
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=516 for child=517 at distance L1. Commission percent: 3.00%
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 516 = 1500.22
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=41 for ancestor 516
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 1500.22, description: Daily Referral Commission from child 517 (distance L1) 3.00%
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 52997.24
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1500.22 to ancestor 516 (distance L1)
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L2. Commission percent: 1.00%
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 500.07
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=42 for ancestor 510
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 500.07, description: Daily Referral Commission from child 517 (distance L2) 1.00%
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 9047.88
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 500.07 to ancestor 510 (distance L2)
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L3. Commission percent: 0.50%
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 250.04
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=43 for ancestor 92
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 250.04, description: Daily Referral Commission from child 517 (distance L3) 0.50%
+[04-Nov-2025 18:12:17 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824620.25
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 250.04 to ancestor 92 (distance L3)
+[04-Nov-2025 18:12:17 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=517. Levels processed=3
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Current Level (for upgrade 'from'): 1
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Total Direct Investment (Payment): 50000
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Just Claimed Daily Bonus: 0.85
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Effective Total Investment for Upgrade Check (Required Balance): 50000.85
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team YZ (Y+Z): 0
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Total Active Team (X+Y+Z): 0
+[04-Nov-2025 18:12:17 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - No upgrade applicable. Criteria not met for higher than L1.
+[04-Nov-2025 18:32:50 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-04.
+[04-Nov-2025 18:32:50 UTC] [CLAIM_BONUS_DEBUG] User 92 already claimed daily bonus today.
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] User 91 attempting to claim bonus for date 2025-11-05.
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] User 91 - Final level_for_daily_bonus (current level): 1
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] User 91 - Daily Bonus Calculation: Base=50, Percent=1.55, Bonus Amount=0.78
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 91, amount: 0.78, description: Daily Bonus
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 91. New balance: 644445.78
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] User 91 - Daily bonus of 0.78 recorded (ID: 398) and credited.
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] START child=91
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=90 for child=91 at distance L1. Commission percent: 3.00%
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 90 = 19333.37
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=44 for ancestor 90
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 90, amount: 19333.37, description: Daily Referral Commission from child 91 (distance L1) 3.00%
+[05-Nov-2025 12:23:33 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 90. New balance: 31550.69
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 19333.37 to ancestor 90 (distance L1)
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 90 -- stopping upline walk.
+[05-Nov-2025 12:23:33 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=91. Levels processed=1
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Current Level (for upgrade 'from'): 1
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Total Direct Investment (Payment): 644445
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Just Claimed Daily Bonus: 0.78
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Effective Total Investment for Upgrade Check (Required Balance): 644445.78
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Actual Team X: 1, Team Y: 1, Team Z: 0
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Actual Team YZ (Y+Z): 1
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - Actual Total Active Team (X+Y+Z): 2
+[05-Nov-2025 12:23:33 UTC] [LEVEL_UPGRADE_DEBUG] User 91 - No upgrade applicable. Criteria not met for higher than L1.
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] User 518 attempting to claim bonus for date 2025-11-06.
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] User 518 - Final level_for_daily_bonus (current level): 1
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] User 518 - Daily Bonus Calculation: Base=50, Percent=1.41, Bonus Amount=0.71
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 518, amount: 0.71, description: Daily Bonus
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 518. New balance: 500.71
+[06-Nov-2025 09:18:06 UTC] [CLAIM_BONUS_DEBUG] User 518 - Daily bonus of 0.71 recorded (ID: 399) and credited.
+[06-Nov-2025 09:18:06 UTC] [DAILY_UPLINE_COMM_FIXED] START child=518
+[06-Nov-2025 09:18:06 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 518 -- stopping upline walk.
+[06-Nov-2025 09:18:06 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=518. Levels processed=0
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Current Level (for upgrade 'from'): 1
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Total Direct Investment (Payment): 500
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Just Claimed Daily Bonus: 0.71
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Effective Total Investment for Upgrade Check (Required Balance): 500.71
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Actual Team X: 1, Team Y: 0, Team Z: 0
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Actual Team YZ (Y+Z): 0
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - Actual Total Active Team (X+Y+Z): 1
+[06-Nov-2025 09:18:06 UTC] [LEVEL_UPGRADE_DEBUG] User 518 - No upgrade applicable. Criteria not met for higher than L1.
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] User 517 attempting to claim bonus for date 2025-11-06.
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Final level_for_daily_bonus (current level): 1
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily Bonus Calculation: Base=50, Percent=1.47, Bonus Amount=0.74
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 517, amount: 0.74, description: Daily Bonus
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 517. New balance: 50008.02
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] User 517 - Daily bonus of 0.74 recorded (ID: 401) and credited.
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] START child=517
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=516 for child=517 at distance L1. Commission percent: 3.00%
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 516 = 1500.24
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=45 for ancestor 516
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 1500.24, description: Daily Referral Commission from child 517 (distance L1) 3.00%
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 54497.48
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1500.24 to ancestor 516 (distance L1)
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L2. Commission percent: 1.00%
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 500.08
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=46 for ancestor 510
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 500.08, description: Daily Referral Commission from child 517 (distance L2) 1.00%
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 9547.96
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 500.08 to ancestor 510 (distance L2)
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L3. Commission percent: 0.50%
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 250.04
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=47 for ancestor 92
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 250.04, description: Daily Referral Commission from child 517 (distance L3) 0.50%
+[06-Nov-2025 14:59:54 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824870.29
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 250.04 to ancestor 92 (distance L3)
+[06-Nov-2025 14:59:54 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=517. Levels processed=3
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Current Level (for upgrade 'from'): 1
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Total Direct Investment (Payment): 50000
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Just Claimed Daily Bonus: 0.74
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Effective Total Investment for Upgrade Check (Required Balance): 50000.74
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team X: 1, Team Y: 0, Team Z: 0
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Team YZ (Y+Z): 0
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - Actual Total Active Team (X+Y+Z): 1
+[06-Nov-2025 14:59:54 UTC] [LEVEL_UPGRADE_DEBUG] User 517 - No upgrade applicable. Criteria not met for higher than L1.
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-08.
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 3
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=2000, Percent=2.33, Bonus Amount=46.6
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 46.6, description: Daily Bonus
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 245824916.89
+[08-Nov-2025 07:34:05 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 46.6 recorded (ID: 409) and credited.
+[08-Nov-2025 07:34:05 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[08-Nov-2025 07:34:05 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[08-Nov-2025 07:34:05 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 3
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 11777
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 46.6
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 11823.6
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 10, Team Y: 19, Team Z: 78
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 97
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 107
+[08-Nov-2025 07:34:05 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L3.
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] User 106 attempting to claim bonus for date 2025-11-09.
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] User 106 - Final level_for_daily_bonus (current level): 1
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] User 106 - Daily Bonus Calculation: Base=50, Percent=1.42, Bonus Amount=0.71
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 106, amount: 0.71, description: Daily Bonus
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 106. New balance: 6576570655.51
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] User 106 - Daily bonus of 0.71 recorded (ID: 411) and credited.
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] START child=106
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=99 for child=106 at distance L1. Commission percent: 3.00%
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 99 = 197297119.67
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=48 for ancestor 99
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 99, amount: 197297119.67, description: Daily Referral Commission from child 106 (distance L1) 3.00%
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 99. New balance: 197845746.07
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 197297119.67 to ancestor 99 (distance L1)
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=99 at distance L2. Commission percent: 1.00%
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 65765706.56
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=49 for ancestor 92
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 65765706.56, description: Daily Referral Commission from child 106 (distance L2) 1.00%
+[09-Nov-2025 20:17:38 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311590623.45
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 65765706.56 to ancestor 92 (distance L2)
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[09-Nov-2025 20:17:38 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=106. Levels processed=2
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Current Level (for upgrade 'from'): 1
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Total Direct Investment (Payment): 99999999.99
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Just Claimed Daily Bonus: 0.71
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Effective Total Investment for Upgrade Check (Required Balance): 100000000.7
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Actual Team X: 5, Team Y: 0, Team Z: 0
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Actual Team YZ (Y+Z): 0
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - Actual Total Active Team (X+Y+Z): 5
+[09-Nov-2025 20:17:38 UTC] [LEVEL_UPGRADE_DEBUG] User 106 - No upgrade applicable. Criteria not met for higher than L1.
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] User 522 attempting to claim bonus for date 2025-11-12.
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] User 522 - No specific level found, defaulting to level 1 for daily bonus calculation.
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] User 522 - Final level_for_daily_bonus (current level): 1
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] User 522 - Daily Bonus Calculation: Base=50, Percent=1.63, Bonus Amount=0.82
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 522, amount: 0.82, description: Daily Bonus
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] Wallet created for user 522. Balance: 0.82
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] User 522 - Daily bonus of 0.82 recorded (ID: 412) and credited.
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] START child=522
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=522 at distance L1. Commission percent: 3.00%
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 0.02
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=50 for ancestor 510
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.02, description: Daily Referral Commission from child 522 (distance L1) 3.00%
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 9547.98
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 0.02 to ancestor 510 (distance L1)
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 0.01
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=51 for ancestor 92
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 0.01, description: Daily Referral Commission from child 522 (distance L2) 1.00%
+[12-Nov-2025 15:33:58 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311590623.46
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 0.01 to ancestor 92 (distance L2)
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[12-Nov-2025 15:33:58 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=522. Levels processed=2
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Current Level (for upgrade 'from'): 1
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Total Direct Investment (Payment): 0
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Just Claimed Daily Bonus: 0.82
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Effective Total Investment for Upgrade Check (Required Balance): 0.82
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Team YZ (Y+Z): 0
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Total Active Team (X+Y+Z): 0
+[12-Nov-2025 15:33:58 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - No upgrade applicable. Criteria not met for higher than L1.
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] User 523 attempting to claim bonus for date 2025-11-12.
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] User 523 - Final level_for_daily_bonus (current level): 1
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] User 523 - Daily Bonus Calculation: Base=50, Percent=1.63, Bonus Amount=0.82
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 523, amount: 0.82, description: Daily Bonus
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 523. New balance: 10000.82
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] User 523 - Daily bonus of 0.82 recorded (ID: 415) and credited.
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] START child=523
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=523 at distance L1. Commission percent: 3.00%
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 300.02
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=52 for ancestor 510
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 300.02, description: Daily Referral Commission from child 523 (distance L1) 3.00%
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 17848
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 300.02 to ancestor 510 (distance L1)
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 100.01
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=53 for ancestor 92
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 100.01, description: Daily Referral Commission from child 523 (distance L2) 1.00%
+[12-Nov-2025 16:36:59 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311582273.47
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 100.01 to ancestor 92 (distance L2)
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[12-Nov-2025 16:36:59 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=523. Levels processed=2
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Current Level (for upgrade 'from'): 1
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Total Direct Investment (Payment): 10000
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Just Claimed Daily Bonus: 0.82
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Effective Total Investment for Upgrade Check (Required Balance): 10000.82
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Actual Team YZ (Y+Z): 0
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - Actual Total Active Team (X+Y+Z): 0
+[12-Nov-2025 16:36:59 UTC] [LEVEL_UPGRADE_DEBUG] User 523 - No upgrade applicable. Criteria not met for higher than L1.
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-14.
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.48, Bonus Amount=0.74
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.74, description: Daily Bonus
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 54498.22
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.74 recorded (ID: 419) and credited.
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1634.95
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=54 for ancestor 510
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 1634.95, description: Daily Referral Commission from child 516 (distance L1) 3.00%
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 49482.95
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1634.95 to ancestor 510 (distance L1)
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 544.98
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=55 for ancestor 92
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 544.98, description: Daily Referral Commission from child 516 (distance L2) 1.00%
+[14-Nov-2025 16:12:00 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311551268.45
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 544.98 to ancestor 92 (distance L2)
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[14-Nov-2025 16:12:00 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 50000
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.74
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 50000.74
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 1, Team Y: 1, Team Z: 0
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 1
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 2
+[14-Nov-2025 16:12:00 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-14.
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 3
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=2000, Percent=2.4, Bonus Amount=48
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 48, description: Daily Bonus
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311551266.45
+[14-Nov-2025 16:29:49 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 48 recorded (ID: 421) and credited.
+[14-Nov-2025 16:29:49 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[14-Nov-2025 16:29:49 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[14-Nov-2025 16:29:49 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 3
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 11777
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 48
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 11825
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 10, Team Y: 21, Team Z: 78
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 99
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 109
+[14-Nov-2025 16:29:49 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L3.
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] User 524 attempting to claim bonus for date 2025-11-14.
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] User 524 - Final level_for_daily_bonus (current level): 1
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] User 524 - Daily Bonus Calculation: Base=50, Percent=1.58, Bonus Amount=0.79
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 524, amount: 0.79, description: Daily Bonus
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 524. New balance: 5000.79
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] User 524 - Daily bonus of 0.79 recorded (ID: 422) and credited.
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] START child=524
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=524 at distance L1. Commission percent: 3.00%
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 150.02
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=56 for ancestor 510
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 150.02, description: Daily Referral Commission from child 524 (distance L1) 3.00%
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 49632.97
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 150.02 to ancestor 510 (distance L1)
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 50.01
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=57 for ancestor 92
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 50.01, description: Daily Referral Commission from child 524 (distance L2) 1.00%
+[14-Nov-2025 16:38:57 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 311551316.46
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 50.01 to ancestor 92 (distance L2)
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[14-Nov-2025 16:38:57 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=524. Levels processed=2
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Current Level (for upgrade 'from'): 1
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Total Direct Investment (Payment): 5000
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Just Claimed Daily Bonus: 0.79
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Effective Total Investment for Upgrade Check (Required Balance): 5000.79
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Actual Team YZ (Y+Z): 0
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - Actual Total Active Team (X+Y+Z): 0
+[14-Nov-2025 16:38:57 UTC] [LEVEL_UPGRADE_DEBUG] User 524 - No upgrade applicable. Criteria not met for higher than L1.
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-11-17.
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.59, Bonus Amount=0.8
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.8, description: Daily Bonus
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 52933.77
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.8 recorded (ID: 433) and credited.
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] START child=510
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L1. Commission percent: 3.00%
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 1588.01
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=58 for ancestor 92
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 1588.01, description: Daily Referral Commission from child 510 (distance L1) 3.00%
+[17-Nov-2025 09:29:10 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 1588.01
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1588.01 to ancestor 92 (distance L1)
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[17-Nov-2025 09:29:10 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=510. Levels processed=1
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 8865
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.8
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 8865.8
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 4, Team Y: 1, Team Z: 1
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 2
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 6
+[17-Nov-2025 09:29:10 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-17.
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.64, Bonus Amount=0.82
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.82, description: Daily Bonus
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 58299.04
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.82 recorded (ID: 434) and credited.
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1748.97
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=59 for ancestor 510
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 1748.97, description: Daily Referral Commission from child 516 (distance L1) 3.00%
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 54682.74
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1748.97 to ancestor 510 (distance L1)
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 582.99
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=60 for ancestor 92
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 582.99, description: Daily Referral Commission from child 516 (distance L2) 1.00%
+[17-Nov-2025 09:29:48 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 2171
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 582.99 to ancestor 92 (distance L2)
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[17-Nov-2025 09:29:48 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 53800
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.82
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 53800.82
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 1, Team Y: 1, Team Z: 0
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 1
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 2
+[17-Nov-2025 09:29:48 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-11-18.
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 3
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=2000, Percent=2.18, Bonus Amount=43.6
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 43.6, description: Daily Bonus
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 2214.6
+[18-Nov-2025 17:42:01 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 43.6 recorded (ID: 435) and credited.
+[18-Nov-2025 17:42:01 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[18-Nov-2025 17:42:01 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[18-Nov-2025 17:42:01 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 3
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 14177
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 43.6
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 14220.6
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 10, Team Y: 22, Team Z: 78
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 100
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 110
+[18-Nov-2025 17:42:01 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L3.
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-11-18.
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.49, Bonus Amount=0.75
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.75, description: Daily Bonus
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 54783.49
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.75 recorded (ID: 436) and credited.
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] START child=510
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L1. Commission percent: 3.00%
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 1643.5
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=61 for ancestor 92
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 1643.5, description: Daily Referral Commission from child 510 (distance L1) 3.00%
+[18-Nov-2025 17:47:44 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 3858.1
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1643.5 to ancestor 92 (distance L1)
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[18-Nov-2025 17:47:44 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=510. Levels processed=1
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 8965
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.75
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 8965.75
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 4, Team Y: 1, Team Z: 1
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 2
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 6
+[18-Nov-2025 17:47:44 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] User 516 attempting to claim bonus for date 2025-11-18.
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] User 516 - Final level_for_daily_bonus (current level): 1
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily Bonus Calculation: Base=50, Percent=1.55, Bonus Amount=0.78
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 516, amount: 0.78, description: Daily Bonus
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 516. New balance: 58299.82
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] User 516 - Daily bonus of 0.78 recorded (ID: 437) and credited.
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] START child=516
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=516 at distance L1. Commission percent: 3.00%
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1748.99
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=62 for ancestor 510
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 1748.99, description: Daily Referral Commission from child 516 (distance L1) 3.00%
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 56532.48
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1748.99 to ancestor 510 (distance L1)
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 583
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=63 for ancestor 92
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 583, description: Daily Referral Commission from child 516 (distance L2) 1.00%
+[18-Nov-2025 17:49:55 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 4441.1
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 583 to ancestor 92 (distance L2)
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[18-Nov-2025 17:49:55 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=516. Levels processed=2
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Current Level (for upgrade 'from'): 1
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Total Direct Investment (Payment): 53800
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Just Claimed Daily Bonus: 0.78
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Effective Total Investment for Upgrade Check (Required Balance): 53800.78
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team X: 1, Team Y: 1, Team Z: 0
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Team YZ (Y+Z): 1
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - Actual Total Active Team (X+Y+Z): 2
+[18-Nov-2025 17:49:55 UTC] [LEVEL_UPGRADE_DEBUG] User 516 - No upgrade applicable. Criteria not met for higher than L1.
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-12-01.
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 3
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=2000, Percent=2.36, Bonus Amount=47.2
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 47.2, description: Daily Bonus
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 768.3
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 47.2 recorded (ID: 449) and credited.
+[01-Dec-2025 18:14:38 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[01-Dec-2025 18:14:38 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[01-Dec-2025 18:14:38 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 3
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 15027
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 47.2
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 15074.2
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 13, Team Y: 23, Team Z: 78
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 101
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 114
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Eligible for upgrade to Level 4 based on requirements.
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Upgrade bonus for L4: 4.22 (Min: 4, Max: 6)
+[01-Dec-2025 18:14:38 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Upgrade bonus history recorded (ID: 450).
+[01-Dec-2025 18:14:38 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 4.22, description: Level Upgrade Bonus (L3 → L4)
+[01-Dec-2025 18:14:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 772.52
+[01-Dec-2025 18:14:39 UTC] [CLAIM_BONUS_DEBUG] giveTeamCommission called for from_user_id: 92, bonus_amount: 4.22
+[01-Dec-2025 18:14:39 UTC] [CLAIM_BONUS_DEBUG] No upline found for user 92 at ref_level 1.
+[01-Dec-2025 18:14:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Main level updated to 4 in users table.
+[01-Dec-2025 18:14:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - users_level_upgrade.bonus_level updated to 4.
+[01-Dec-2025 18:14:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Level Upgrade Transaction COMMITTED. Upgraded from L3 to L4 with bonus 4.22.
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-12-14.
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 4
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=5000, Percent=2.59, Bonus Amount=129.5
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 129.5, description: Daily Bonus
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 902.02
+[14-Dec-2025 08:47:23 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 129.5 recorded (ID: 457) and credited.
+[14-Dec-2025 08:47:23 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[14-Dec-2025 08:47:23 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[14-Dec-2025 08:47:23 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 4
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 15027
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 129.5
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 15156.5
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 14, Team Y: 23, Team Z: 78
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 101
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 115
+[14-Dec-2025 08:47:23 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L4.
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-12-20.
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 4
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=5000, Percent=2.5, Bonus Amount=125
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 125, description: Daily Bonus
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 1027.02
+[20-Dec-2025 17:36:04 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 125 recorded (ID: 458) and credited.
+[20-Dec-2025 17:36:04 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[20-Dec-2025 17:36:04 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[20-Dec-2025 17:36:04 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 4
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 15027
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 125
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 15152
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 14, Team Y: 23, Team Z: 78
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 101
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 115
+[20-Dec-2025 17:36:04 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L4.
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] User 510 attempting to claim bonus for date 2025-12-22.
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] User 510 - Final level_for_daily_bonus (current level): 1
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily Bonus Calculation: Base=50, Percent=1.48, Bonus Amount=0.74
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.74, description: Daily Bonus
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 61200.22
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] User 510 - Daily bonus of 0.74 recorded (ID: 459) and credited.
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] START child=510
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L1. Commission percent: 3.00%
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 1836.01
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=64 for ancestor 92
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 1836.01, description: Daily Referral Commission from child 510 (distance L1) 3.00%
+[22-Dec-2025 18:06:24 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 2863.03
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1836.01 to ancestor 92 (distance L1)
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[22-Dec-2025 18:06:24 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=510. Levels processed=1
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Current Level (for upgrade 'from'): 1
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Total Direct Investment (Payment): 8965
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Just Claimed Daily Bonus: 0.74
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Effective Total Investment for Upgrade Check (Required Balance): 8965.74
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team X: 4, Team Y: 1, Team Z: 1
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Team YZ (Y+Z): 2
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - Actual Total Active Team (X+Y+Z): 6
+[22-Dec-2025 18:06:24 UTC] [LEVEL_UPGRADE_DEBUG] User 510 - No upgrade applicable. Criteria not met for higher than L1.
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] User 534 attempting to claim bonus for date 2025-12-22.
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] User 534 - No specific level found, defaulting to level 1 for daily bonus calculation.
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] User 534 - Final level_for_daily_bonus (current level): 1
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] User 534 - Daily Bonus Calculation: Base=50, Percent=1.59, Bonus Amount=0.8
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 534, amount: 0.8, description: Daily Bonus
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] Wallet created for user 534. Balance: 0.8
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] User 534 - Daily bonus of 0.8 recorded (ID: 460) and credited.
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] START child=534
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=534 at distance L1. Commission percent: 3.00%
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 0.02
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=65 for ancestor 510
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 0.02, description: Daily Referral Commission from child 534 (distance L1) 3.00%
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 61200.24
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 0.02 to ancestor 510 (distance L1)
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 0.01
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=66 for ancestor 92
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 0.01, description: Daily Referral Commission from child 534 (distance L2) 1.00%
+[22-Dec-2025 18:26:23 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 2863.04
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 0.01 to ancestor 92 (distance L2)
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[22-Dec-2025 18:26:23 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=534. Levels processed=2
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Current Level (for upgrade 'from'): 1
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Total Direct Investment (Payment): 0
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Just Claimed Daily Bonus: 0.8
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Effective Total Investment for Upgrade Check (Required Balance): 0.8
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Actual Team YZ (Y+Z): 0
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - Actual Total Active Team (X+Y+Z): 0
+[22-Dec-2025 18:26:23 UTC] [LEVEL_UPGRADE_DEBUG] User 534 - No upgrade applicable. Criteria not met for higher than L1.
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] User 522 attempting to claim bonus for date 2025-12-22.
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] User 522 - Final level_for_daily_bonus (current level): 1
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] User 522 - Daily Bonus Calculation: Base=50, Percent=1.65, Bonus Amount=0.83
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 522, amount: 0.83, description: Daily Bonus
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 522. New balance: 60001.65
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] User 522 - Daily bonus of 0.83 recorded (ID: 463) and credited.
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] START child=522
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=510 for child=522 at distance L1. Commission percent: 3.00%
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 510 = 1800.05
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=67 for ancestor 510
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 510, amount: 1800.05, description: Daily Referral Commission from child 522 (distance L1) 3.00%
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 510. New balance: 63000.29
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 1800.05 to ancestor 510 (distance L1)
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Found parent_id=92 for child=510 at distance L2. Commission percent: 1.00%
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Commission to ancestor 92 = 600.02
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Inserted team_commission_history id=68 for ancestor 92
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 600.02, description: Daily Referral Commission from child 522 (distance L2) 1.00%
+[22-Dec-2025 18:43:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 3463.06
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] Credited 600.02 to ancestor 92 (distance L2)
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[22-Dec-2025 18:43:39 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=522. Levels processed=2
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Current Level (for upgrade 'from'): 1
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Total Direct Investment (Payment): 60000
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Just Claimed Daily Bonus: 0.83
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Effective Total Investment for Upgrade Check (Required Balance): 60000.83
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Team X: 0, Team Y: 0, Team Z: 0
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Team YZ (Y+Z): 0
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - Actual Total Active Team (X+Y+Z): 0
+[22-Dec-2025 18:43:39 UTC] [LEVEL_UPGRADE_DEBUG] User 522 - No upgrade applicable. Criteria not met for higher than L1.
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-12-29.
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 4
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=5000, Percent=2.89, Bonus Amount=144.5
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 144.5, description: Daily Bonus
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 8607.56
+[29-Dec-2025 09:38:39 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 144.5 recorded (ID: 465) and credited.
+[29-Dec-2025 09:38:39 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[29-Dec-2025 09:38:39 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[29-Dec-2025 09:38:39 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 4
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 20027
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 144.5
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 20171.5
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 14, Team Y: 24, Team Z: 78
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 102
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 116
+[29-Dec-2025 09:38:39 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L4.
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] User 92 attempting to claim bonus for date 2025-12-30.
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] User 92 - Final level_for_daily_bonus (current level): 4
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily Bonus Calculation: Base=5000, Percent=2.62, Bonus Amount=131
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] creditToWallet called for user_id: 92, amount: 131, description: Daily Bonus
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] Wallet updated for user 92. New balance: 8738.56
+[30-Dec-2025 18:05:16 UTC] [CLAIM_BONUS_DEBUG] User 92 - Daily bonus of 131 recorded (ID: 466) and credited.
+[30-Dec-2025 18:05:16 UTC] [DAILY_UPLINE_COMM_FIXED] START child=92
+[30-Dec-2025 18:05:16 UTC] [DAILY_UPLINE_COMM_FIXED] No parent found for user 92 -- stopping upline walk.
+[30-Dec-2025 18:05:16 UTC] [DAILY_UPLINE_COMM_FIXED] FINISH for child=92. Levels processed=0
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Current Level (for upgrade 'from'): 4
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Total Direct Investment (Payment): 20027
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Just Claimed Daily Bonus: 131
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Effective Total Investment for Upgrade Check (Required Balance): 20158
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team X: 14, Team Y: 24, Team Z: 78
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Team YZ (Y+Z): 102
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - Actual Total Active Team (X+Y+Z): 116
+[30-Dec-2025 18:05:16 UTC] [LEVEL_UPGRADE_DEBUG] User 92 - No upgrade applicable. Criteria not met for higher than L4.

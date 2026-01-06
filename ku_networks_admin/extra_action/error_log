@@ -1,0 +1,37 @@
+[19-Jan-2022 07:49:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'malikriz_ahsan'@'localhost' (using password: YES) in /home3/creatuae/public_html/123456789/db.php on line 6
+[19-Jan-2022 07:49:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[19-Jan-2022 07:49:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[19-Jan-2022 07:49:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'malikriz_ahsan'@'localhost' (using password: YES) in /home3/creatuae/public_html/123456789/db.php on line 6
+[19-Jan-2022 07:49:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[19-Jan-2022 07:49:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[20-Apr-2022 17:23:40 America/Chicago] PHP Warning:  unlink(../../images/dummy_admin.png): No such file or directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[20-Apr-2022 17:23:49 America/Chicago] PHP Warning:  unlink(../../images/image_2021-10-14_130557.png): No such file or directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[20-Apr-2022 17:23:59 America/Chicago] PHP Warning:  unlink(../../images/): Is a directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[20-Apr-2022 17:24:01 America/Chicago] PHP Warning:  unlink(../../images/): Is a directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[20-Apr-2022 17:24:45 America/Chicago] PHP Warning:  unlink(../../images/): Is a directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[27-Jun-2022 03:19:42 America/Chicago] PHP Warning:  unlink(../../images/): Is a directory in /home3/creatuae/public_html/123456789/action/del_inquiry.php on line 16
+[07-Aug-2022 01:56:02 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 01:56:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[07-Aug-2022 01:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[07-Aug-2022 01:56:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 01:56:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 01:56:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 01:56:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 01:56:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[07-Aug-2022 01:56:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[07-Aug-2022 14:30:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[07-Aug-2022 14:30:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[07-Aug-2022 14:30:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[08-Aug-2022 13:08:42 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[08-Aug-2022 13:08:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[08-Aug-2022 13:08:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[08-Aug-2022 13:08:54 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[08-Aug-2022 13:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[08-Aug-2022 13:08:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[08-Aug-2022 13:39:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[08-Aug-2022 13:39:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[08-Aug-2022 13:39:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
+[08-Aug-2022 13:39:58 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[08-Aug-2022 13:42:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/creatuae/public_html/123456789/db.php on line 6
+[08-Aug-2022 13:42:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/creatuae/public_html/123456789/action/login.php on line 10
+[08-Aug-2022 13:42:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/creatuae/public_html/123456789/action/login.php on line 12
